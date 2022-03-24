@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RavindraKasarRK
+- 👋 Hi, I’m @RavindraKasar
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’ve 5+ years of experience in IT industry.
 - 💞️ I’m looking to collaborate on security related stuffs.
